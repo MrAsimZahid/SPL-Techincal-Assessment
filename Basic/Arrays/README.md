@@ -24,7 +24,7 @@
         int a'[n]: the rotated array
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: python3 left_rotation.py -a 1,2,3,4,5 -d 4
 
 ## Problem 2: Array Reversal
 
@@ -44,4 +44,4 @@
         solve it using rotLeft function?
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: python3 array_reversal.py -a 1,2,3,4,5
