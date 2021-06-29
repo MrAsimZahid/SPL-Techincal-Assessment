@@ -22,7 +22,7 @@
         bool: 1 or 0
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: python3 substring_compare.py -a <"str"> -b <"str">
 
 ## Problem 2: Comparsion Of Two Maps
 
@@ -41,4 +41,4 @@
         Can we use this method to return how many elements match between two maps?
 
 
-    Command/Script to Run Problem 2: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 2: python3 compare_maps.py -x <hashmap> -b <hashmap>
