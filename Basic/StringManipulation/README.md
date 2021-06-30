@@ -27,7 +27,7 @@
             function?
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: python3 similarityIndex.py -s1 <'str'> -s2 <'str'>
 
 ## Problem 2: Remove a character from the entire string.
 
@@ -42,4 +42,4 @@
        Can we use the Tree data structure or hashing to optimize this?
 
 
-    Command/Script to Run Problem 2: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 2: python3 replaceChar.py -s <'str'> -c <'char'>
