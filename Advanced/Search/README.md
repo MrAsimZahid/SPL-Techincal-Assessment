@@ -24,8 +24,10 @@
             How do we detect which pairs are identical? i.e. {2,3} and {3,2} are identical.
             Write a program to filter the identical pairs.
 
+            Done
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+
+    Command/Script to Run Problem 1: python3 twoSum.py -a 10,12,14,16,18 -t 30
 
 ## Problem 2: Calculate The Frequency of Numbers in An Array
 
