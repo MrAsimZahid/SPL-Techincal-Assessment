@@ -26,7 +26,7 @@
             How do we find the pivot in the array containing even number of elements?
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: python3 aroundPivot.py -a 1,-1,-2,2,-3,3,0  -b 0
 
 ## Problem 2: Find maximum number from a list of numbers (both negative and non-negative).
 
@@ -45,5 +45,7 @@
 
        Can we use the method DistributiveArray written above to achieve this?
 
+       Yes
 
-    Command/Script to Run Problem 2: ________________ (Fill this in when submitting)
+
+    Command/Script to Run Problem 2: python3 findMax.py -a 1,2,3,4,5
