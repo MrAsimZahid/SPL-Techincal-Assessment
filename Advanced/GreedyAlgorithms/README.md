@@ -23,5 +23,5 @@
         int a': Minimum Absolute Difference
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: python3 findAbsMin.py -a 10,12,14,16,18
 
