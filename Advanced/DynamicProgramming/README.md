@@ -6,7 +6,7 @@ Fibonnaci Formula: f(n) = f(n-1) + f(n-2) if n>2 && f(1) = 1, f(2)=1
 This problem is self descriptive.
 You should be able to explain the memoization in comments.
 
-_Command/Script to Run Problem 1: ________________ (Fill this in when submitting)_
+_Command/Script to Run Problem 1: python3 fibonnaci.py -n 8
 
 ## Problem 2: Find Longest Common SubSequence in two strings.
 
