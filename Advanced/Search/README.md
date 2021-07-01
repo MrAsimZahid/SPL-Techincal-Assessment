@@ -44,6 +44,8 @@
 
         a. Can we use the output Array to calculate mean of the original array?
 
+        Yes
 
 
-    Command/Script to Run Problem 2: ________________ (Fill this in when submitting)
+
+    Command/Script to Run Problem 2: python3 numberFrequency.py -a 1,2,3,4,5,4,3,1

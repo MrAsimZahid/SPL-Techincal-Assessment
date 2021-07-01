@@ -30,6 +30,8 @@ if __name__ == '__main__':
     # Read arguments from command line
     args = parser.parse_args()
     array = args.array
+    array = array.split(',')
+    array = [map(int, array)]
     target = args.target
 
     # Call function
