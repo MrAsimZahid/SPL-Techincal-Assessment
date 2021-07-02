@@ -1,11 +1,12 @@
-import user
+from user import User
+from assignment import Assignment
 
 
 # implement getters and setters
 
 class Professor(User):
-    def __init__(self, firstNames, lastName, password, userName, designation, qualification, courses):
-        super().__init__(self, firstName, lastName, password, userName)
+    def __init__(self, firstName, lastName, password, userName, designation, qualification, courses):
+        super().__init__(firstName, lastName, password, userName)
         self.designation = designation
         self.qualification = qualification
         self.courses = courses
@@ -14,7 +15,7 @@ class Professor(User):
         """
         View instructor profile 
         """
-        print("{} is a {} at LUMS".format(self.firstName + ' ' + self.lastName, self.designation))
+        print("{} is {} at LUMS".format(self.firstName + ' ' + self.lastName, self.designation))
 
     def viewRoster(self, courseCode):
         """
